@@ -2,9 +2,19 @@ public class    OOPSbannerapp
 {
     public static void main(String args[])
     {
-        System.out.println("OOPS");
-        System.out.println("Namaste");
+    
+
+        System.out.println("  ***      ***    ******    ******  ");
+        System.out.println(" ** **    ** **   **    **  **      ");
+        System.out.println("**   **  **   **  **    **  **      ");
+        System.out.println("**   **  **   **  ******     ****** ");
+        System.out.println("**   **  **   **  **              **");
+        System.out.println("**   **  **   **  **              **");
+        System.out.println(" ** **    ** **   **        **    **");
+        System.out.println("  ***      ***    **         ****** ");
 
     }
 }
+
+    
 
